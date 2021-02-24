@@ -69,7 +69,7 @@
             <img src="{{ asset('images/77S.jpg') }}" />
             <div class="container">
               <div class="carousel-caption">
-                <h1>Azimut S Collection</h1>
+                <h1>Azimut 77S.</h1>
                 <p>Esportividade e tecnologia são os dois concepts de projeto ao redor dos quais nascerem os iates da Coleção S.</p>
                 <p><a class="btn btn-lg btn-primary" href="#">Fazer Orçamento</a></p>
               </div>
@@ -80,8 +80,8 @@
             <img src="{{ asset('images/Flybridge83.jpg') }}" />
             <div class="container">
               <div class="carousel-caption text-end">
-                <h1>Flybridge Collection.</h1>
-                <p>A Ciência do Luxo</p>
+                <h1>Flybridge 83.</h1>
+                <p>A Ciência do Luxo </p>
                 <p><a class="btn btn-lg btn-primary" href="#">Fazer Orçamento</a></p>
               </div>
             </div>
@@ -146,8 +146,17 @@
     
         <div class="row featurette">
           <div class="col-md-7">
-            <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
-            <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+            <h2 class="featurette-heading">Informações Técnicas. <span class="text-muted">Flybridge 83.</span></h2>
+            <tbody>
+            <p class="lead"><table>
+              <tr><td>Comprimento total (incl. mesa de comandos)</td><td>25.2 m (82’ 8”)</td>
+              </tr><tr><td>Comprimento do casco</td><td>23.71 m (77’ 9”)</td></tr>
+              <tr><td>Boca máxima</td><td>6.18 m (20’ 3”)</td></tr>
+              <tr><td>Imersão (incl. hélice, com carga total)</td><td>1.72 m (5’ 8”)</td></tr>
+              <tr><td>Deslocamento (com carga total)</td><td>64 t</td></tr>
+            </table>
+            </p>
+          </tbody>
           </div>
           <div class="col-md-5">
             <img src="{{ asset('images/popa77S.jpg') }}" width="500" height="500"/>
@@ -159,8 +168,18 @@
     
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
-            <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+            <h2 class="featurette-heading">Informaçõoes Técnicas. <span class="text-muted">77S Collection.</span></h2>
+            <tbody>
+            <p class="lead">
+              <table>
+                <tr><td>Comprimento total (incl. mesa de comandos)</td><td>23,6 m (77' 5'')</td></tr>
+                <tr><td>Comprimento do casco</td><td>23,54 m (77' 2'')</td></tr>
+                <tr><td>Boca máxima</td><td>5,55 m (18' 3'')</td></tr>
+                <tr><td>Imersão (incl. hélice, com carga total)</td><td>1.64 m (5' 5'')</td></tr>
+                <tr><td>Deslocamento (com carga total)</td><td>58 t</td></tr>
+              </table>
+            </p>
+          </tbody>
           </div>
           <div class="col-md-5 order-md-1">
             <img src="{{ asset('images/proa77S.jpg') }}" width="400" height="400" />
@@ -172,8 +191,17 @@
     
         <div class="row featurette">
           <div class="col-md-7">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+            <h2 class="featurette-heading">Informações Técnicas. <span class="text-muted">Grande 35 Metri.</span></h2>
+            <tbody>
+            <p class="lead">
+              <table>
+                <tr><td>Comprimento total (incl. mesa de comandos)</td><td>35,00 m</td></tr>
+                <tr><td>Boca máxima</td><td>7,50 m</td></tr>
+                <tr><td>Imersão (incl. hélice, com carga total)</td><td>1,91 m approx</td></tr>
+                <tr><td>Deslocamento (com carga total)</td><td>154 t approx</td></tr>
+              </table>
+            </p>
+          </tbody>
           </div>
           <div class="col-md-5">
             <img src="{{ asset('images/traseira77S.jpg') }}" width="500" height="500" />
