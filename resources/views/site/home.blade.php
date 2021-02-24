@@ -125,7 +125,7 @@
         </div><!-- /.row -->
     
     
-        <!-- START THE FEATURETTES -->
+    <!-- START THE FEATURETTES -->
     
         <hr class="featurette-divider">
     
