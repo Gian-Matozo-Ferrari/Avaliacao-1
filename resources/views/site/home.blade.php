@@ -1,6 +1,7 @@
 @extends('site.master.layout')
 
 @section('content')
+<div class="container">
 <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="" aria-label="Slide 1"></button>
@@ -51,7 +52,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
+</div>
 <div class="container marketing">
 
 <!-- Three columns of text below the carousel -->
