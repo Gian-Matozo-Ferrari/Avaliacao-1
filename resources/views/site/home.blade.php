@@ -177,7 +177,11 @@
     
     
 <<<<<<< HEAD
+<<<<<<< HEAD
     <!-- START THE FEATURETTES --> 
+=======
+        <!-- START THE FEATURETTES -->
+>>>>>>> parent of c95af1a (commit2)
 =======
         <!-- START THE FEATURETTES -->
 >>>>>>> parent of c95af1a (commit2)
