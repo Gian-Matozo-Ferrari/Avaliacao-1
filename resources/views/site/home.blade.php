@@ -161,7 +161,11 @@
         </div><!-- /.row -->
     
     
+<<<<<<< HEAD
     <!-- START THE FEATURETTES --> 
+=======
+        <!-- START THE FEATURETTES -->
+>>>>>>> parent of c95af1a (commit2)
     
         <hr class="featurette-divider">
     
