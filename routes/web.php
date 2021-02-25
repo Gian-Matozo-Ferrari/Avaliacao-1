@@ -17,14 +17,10 @@ Route::get('/', function () {
     return view(view: 'site.home');
 })->name('site.home');
 
-Route::get('/FlyBridge-C', function () {
-    return view(view: 'site.flybridge');
-})->name('site.flybridge');
+Route::get('/cursos', function () {
+    return view(view: 'welcome');
+})->name('site.courses');
 
-Route::get('/Grande-C', function () {
-    return view(view: 'site.grande');
-})->name('site.grande');
-
-Route::get('/AzimutS-C', function () {
-    return view(view: 'site.azimuts');
-})->name('site.azimuts');
+Route::get('/contato', function () {
+    return view(view: 'welcome');
+})->name('site.contact');
